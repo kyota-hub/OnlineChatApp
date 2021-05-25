@@ -67,14 +67,13 @@ h1 > button{
   }
 
   h1 > button{
-    width:70px;
-    height: 40px;
-    font-size: １０px;
+    width:８0px;
+    height: ４５px;
+    font-size: １２px;
     display: block;
     position: absolute;
     bottom: 80px;
     right: 15px;
-    opacity: 0.９;
   }
 
   
