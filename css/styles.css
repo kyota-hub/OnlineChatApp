@@ -80,17 +80,13 @@ footer{
   h1 > button{
     width:70px;
     height: 40px;
-    font-size: 8px;
+    font-size: １０px;
     display: block;
     position: absolute;
     bottom: 80px;
     right: 15px;
-    opacity: 0.8;
+    opacity: 0.９;
   }
 
-  footer{
-    height: 25px;
-    line-height: 25px;
-    font-size: 12px;
-  }
+  
 }
